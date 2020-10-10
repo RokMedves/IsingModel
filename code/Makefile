@@ -13,7 +13,7 @@
 # $<    [$<]       first item in dependencies list
 
 # the c++ compiler to use
-CC=gcc
+CC=g++
 
 # flags;
 # -I.        ->  included .hh files in ./ dir
